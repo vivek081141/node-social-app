@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines":{
-    "node":"8.9.4",
+  "engines": {
+    "node": "8.9.4",
     "npm": ">2.0.0"
   },
   "scripts": {
@@ -16,6 +16,7 @@
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
+    "duplexer3": "^0.1.4",
     "express": "^4.16.2",
     "jwt-simple": "^0.5.1",
     "latest-version": "^3.1.0",
